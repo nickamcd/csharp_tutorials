@@ -1,0 +1,15 @@
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/bin/Debug/net6.0/ArraysListsCollections
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/bin/Debug/net6.0/ArraysListsCollections.deps.json
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/bin/Debug/net6.0/ArraysListsCollections.runtimeconfig.json
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/bin/Debug/net6.0/ArraysListsCollections.dll
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/bin/Debug/net6.0/ref/ArraysListsCollections.dll
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/bin/Debug/net6.0/ArraysListsCollections.pdb
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/obj/Debug/net6.0/ArraysListsCollections.csproj.AssemblyReference.cache
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/obj/Debug/net6.0/ArraysListsCollections.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/obj/Debug/net6.0/ArraysListsCollections.AssemblyInfoInputs.cache
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/obj/Debug/net6.0/ArraysListsCollections.AssemblyInfo.cs
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/obj/Debug/net6.0/ArraysListsCollections.csproj.CoreCompileInputs.cache
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/obj/Debug/net6.0/ArraysListsCollections.dll
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/obj/Debug/net6.0/ref/ArraysListsCollections.dll
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/obj/Debug/net6.0/ArraysListsCollections.pdb
+/Users/nicholasmcdaniel/csharp_tutorials/ArraysListsCollections/obj/Debug/net6.0/ArraysListsCollections.genruntimeconfig.cache
