@@ -1,0 +1,15 @@
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/bin/Debug/net6.0/MyBank
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/bin/Debug/net6.0/MyBank.deps.json
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/bin/Debug/net6.0/MyBank.runtimeconfig.json
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/bin/Debug/net6.0/MyBank.dll
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/bin/Debug/net6.0/ref/MyBank.dll
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/bin/Debug/net6.0/MyBank.pdb
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/obj/Debug/net6.0/MyBank.csproj.AssemblyReference.cache
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/obj/Debug/net6.0/MyBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/obj/Debug/net6.0/MyBank.AssemblyInfoInputs.cache
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/obj/Debug/net6.0/MyBank.AssemblyInfo.cs
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/obj/Debug/net6.0/MyBank.csproj.CoreCompileInputs.cache
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/obj/Debug/net6.0/MyBank.dll
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/obj/Debug/net6.0/ref/MyBank.dll
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/obj/Debug/net6.0/MyBank.pdb
+/Users/nicholasmcdaniel/csharp_tutorials/MyBank/obj/Debug/net6.0/MyBank.genruntimeconfig.cache
