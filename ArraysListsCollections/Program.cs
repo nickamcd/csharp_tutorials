@@ -4,6 +4,8 @@
   {
     static void Main(string[] args)
     {
+      int[] arr = new int[] { 1, 2, 3, 4 };
+
       var names = new List<string> { "<name>", "Ana", "Felipe" };
       foreach (string name in names)
       {
@@ -32,6 +34,18 @@
         Console.WriteLine($"{name}");
       }
 
+      var fibonacciNumbers = new List<int> { 1, 1 };
+
+      while (fibonacciNumbers.Count < 20)
+      {
+        var previous = fibonacciNumbers[fibonacciNumbers.Count - 1];
+        var previous2 = fibonacciNumbers[fibonacciNumbers.Count - 2];
+
+        fibonacciNumbers.Add(previous + previous2);
+      }
+
+      foreach (int num in fibonacciNumbers)
+        Console.WriteLine($"{num}");
     }
   }
 }
