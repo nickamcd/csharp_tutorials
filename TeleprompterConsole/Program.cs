@@ -8,6 +8,11 @@
       foreach (var line in lines)
       {
         Console.WriteLine(line);
+        if (!string.IsNullOrWhiteSpace(line))
+        {
+          var pause = Task.Delay(200);
+          pause.Wait();
+        }
       }
     }
 
@@ -18,7 +23,19 @@
       {
         while ((line = reader.ReadLine()) != null)
         {
-          yield return line;
+          var words = line.Split(' ');
+          var lineLength = 0;
+          foreach (var word in words)
+          {
+            yield return word + " ";
+            lineLength += word.Length + 1;
+            if (lineLength > 70)
+            {
+              yield return Environment.NewLine;
+              lineLength = 0;
+            }
+          }
+          yield return Environment.NewLine;
         }
       }
     }
