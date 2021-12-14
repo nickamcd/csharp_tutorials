@@ -4,7 +4,11 @@
   {
     static void Main(string[] args)
     {
-
+      var lines = ReadFrom("sampleQuotes.txt");
+      foreach (var line in lines)
+      {
+        Console.WriteLine(line);
+      }
     }
 
     static IEnumerable<string> ReadFrom(string file)

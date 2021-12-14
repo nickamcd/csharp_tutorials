@@ -1,0 +1,15 @@
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/bin/Debug/net6.0/TeleprompterConsole
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/bin/Debug/net6.0/TeleprompterConsole.deps.json
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/bin/Debug/net6.0/TeleprompterConsole.runtimeconfig.json
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/bin/Debug/net6.0/TeleprompterConsole.dll
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/bin/Debug/net6.0/ref/TeleprompterConsole.dll
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/bin/Debug/net6.0/TeleprompterConsole.pdb
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/obj/Debug/net6.0/TeleprompterConsole.csproj.AssemblyReference.cache
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/obj/Debug/net6.0/TeleprompterConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/obj/Debug/net6.0/TeleprompterConsole.AssemblyInfoInputs.cache
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/obj/Debug/net6.0/TeleprompterConsole.AssemblyInfo.cs
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/obj/Debug/net6.0/TeleprompterConsole.csproj.CoreCompileInputs.cache
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/obj/Debug/net6.0/TeleprompterConsole.dll
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/obj/Debug/net6.0/ref/TeleprompterConsole.dll
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/obj/Debug/net6.0/TeleprompterConsole.pdb
+/Users/nicholasmcdaniel/csharp_tutorials/TeleprompterConsole/obj/Debug/net6.0/TeleprompterConsole.genruntimeconfig.cache
