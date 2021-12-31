@@ -1,0 +1,15 @@
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/bin/Debug/net6.0/DebugPractice
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/bin/Debug/net6.0/DebugPractice.deps.json
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/bin/Debug/net6.0/DebugPractice.runtimeconfig.json
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/bin/Debug/net6.0/DebugPractice.dll
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/bin/Debug/net6.0/ref/DebugPractice.dll
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/bin/Debug/net6.0/DebugPractice.pdb
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/obj/Debug/net6.0/DebugPractice.csproj.AssemblyReference.cache
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/obj/Debug/net6.0/DebugPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/obj/Debug/net6.0/DebugPractice.AssemblyInfoInputs.cache
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/obj/Debug/net6.0/DebugPractice.AssemblyInfo.cs
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/obj/Debug/net6.0/DebugPractice.csproj.CoreCompileInputs.cache
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/obj/Debug/net6.0/DebugPractice.dll
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/obj/Debug/net6.0/ref/DebugPractice.dll
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/obj/Debug/net6.0/DebugPractice.pdb
+/Users/nicholasmcdaniel/csharp_tutorials/DebugPractice/obj/Debug/net6.0/DebugPractice.genruntimeconfig.cache
